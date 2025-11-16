@@ -1,0 +1,4 @@
+C:\Users\Andy\Desktop\LiburutegiApp\Visual studio\LiburutegiApp\obj\Debug\net6.0\Liburutegi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andy\Desktop\LiburutegiApp\Visual studio\LiburutegiApp\obj\Debug\net6.0\Liburutegi.AssemblyInfoInputs.cache
+C:\Users\Andy\Desktop\LiburutegiApp\Visual studio\LiburutegiApp\obj\Debug\net6.0\Liburutegi.AssemblyInfo.cs
+C:\Users\Andy\Desktop\LiburutegiApp\Visual studio\LiburutegiApp\obj\Debug\net6.0\Liburutegi.csproj.CoreCompileInputs.cache

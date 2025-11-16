@@ -1,0 +1,15 @@
+C:\Users\alopezsanc3\Desktop\Visual studio\Froga\obj\Debug\net6.0\Froga.csproj.AssemblyReference.cache
+C:\Users\alopezsanc3\Desktop\Visual studio\Froga\obj\Debug\net6.0\Froga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alopezsanc3\Desktop\Visual studio\Froga\obj\Debug\net6.0\Froga.AssemblyInfoInputs.cache
+C:\Users\alopezsanc3\Desktop\Visual studio\Froga\obj\Debug\net6.0\Froga.AssemblyInfo.cs
+C:\Users\alopezsanc3\Desktop\Visual studio\Froga\obj\Debug\net6.0\Froga.csproj.CoreCompileInputs.cache
+C:\Users\alopezsanc3\Desktop\Visual studio\Froga\bin\Debug\net6.0\Froga.exe
+C:\Users\alopezsanc3\Desktop\Visual studio\Froga\bin\Debug\net6.0\Froga.deps.json
+C:\Users\alopezsanc3\Desktop\Visual studio\Froga\bin\Debug\net6.0\Froga.runtimeconfig.json
+C:\Users\alopezsanc3\Desktop\Visual studio\Froga\bin\Debug\net6.0\Froga.dll
+C:\Users\alopezsanc3\Desktop\Visual studio\Froga\bin\Debug\net6.0\Froga.pdb
+C:\Users\alopezsanc3\Desktop\Visual studio\Froga\obj\Debug\net6.0\Froga.dll
+C:\Users\alopezsanc3\Desktop\Visual studio\Froga\obj\Debug\net6.0\refint\Froga.dll
+C:\Users\alopezsanc3\Desktop\Visual studio\Froga\obj\Debug\net6.0\Froga.pdb
+C:\Users\alopezsanc3\Desktop\Visual studio\Froga\obj\Debug\net6.0\Froga.genruntimeconfig.cache
+C:\Users\alopezsanc3\Desktop\Visual studio\Froga\obj\Debug\net6.0\ref\Froga.dll

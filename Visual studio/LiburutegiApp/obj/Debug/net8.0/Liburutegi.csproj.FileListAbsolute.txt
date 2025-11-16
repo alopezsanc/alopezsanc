@@ -1,0 +1,14 @@
+C:\Users\Andy\Desktop\LiburutegiApp\Visual studio\LiburutegiApp\bin\Debug\net8.0\Liburutegi.exe
+C:\Users\Andy\Desktop\LiburutegiApp\Visual studio\LiburutegiApp\bin\Debug\net8.0\Liburutegi.deps.json
+C:\Users\Andy\Desktop\LiburutegiApp\Visual studio\LiburutegiApp\bin\Debug\net8.0\Liburutegi.runtimeconfig.json
+C:\Users\Andy\Desktop\LiburutegiApp\Visual studio\LiburutegiApp\bin\Debug\net8.0\Liburutegi.dll
+C:\Users\Andy\Desktop\LiburutegiApp\Visual studio\LiburutegiApp\bin\Debug\net8.0\Liburutegi.pdb
+C:\Users\Andy\Desktop\LiburutegiApp\Visual studio\LiburutegiApp\obj\Debug\net8.0\Liburutegi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andy\Desktop\LiburutegiApp\Visual studio\LiburutegiApp\obj\Debug\net8.0\Liburutegi.AssemblyInfoInputs.cache
+C:\Users\Andy\Desktop\LiburutegiApp\Visual studio\LiburutegiApp\obj\Debug\net8.0\Liburutegi.AssemblyInfo.cs
+C:\Users\Andy\Desktop\LiburutegiApp\Visual studio\LiburutegiApp\obj\Debug\net8.0\Liburutegi.csproj.CoreCompileInputs.cache
+C:\Users\Andy\Desktop\LiburutegiApp\Visual studio\LiburutegiApp\obj\Debug\net8.0\Liburutegi.dll
+C:\Users\Andy\Desktop\LiburutegiApp\Visual studio\LiburutegiApp\obj\Debug\net8.0\refint\Liburutegi.dll
+C:\Users\Andy\Desktop\LiburutegiApp\Visual studio\LiburutegiApp\obj\Debug\net8.0\Liburutegi.pdb
+C:\Users\Andy\Desktop\LiburutegiApp\Visual studio\LiburutegiApp\obj\Debug\net8.0\Liburutegi.genruntimeconfig.cache
+C:\Users\Andy\Desktop\LiburutegiApp\Visual studio\LiburutegiApp\obj\Debug\net8.0\ref\Liburutegi.dll
