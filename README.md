@@ -1,5 +1,5 @@
 ## Hi there 👋
 
-Nire proiektu 2.
+Nire 2. proiektua
 
 
