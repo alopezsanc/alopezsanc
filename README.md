@@ -10,7 +10,7 @@
 *[Deskribapena](#Deskribapena)
 *[proiektuaren funtzionaltasuna](#proiektuaren-funtzionaltasuna)
 *[Proiekturako sarbidea](#Proiekturako-sarbidea)
-*[Erabilitako teknologia](#Erabilitako-teknologia)
+*[Erabilitako teknologia](#:mag_right:-Erabilitako-teknologia)
 *[Egileak](#Egileak)
 
 # Proiektuaren egoera
