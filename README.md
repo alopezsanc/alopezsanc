@@ -5,7 +5,7 @@
 ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
 ![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
 
-##Índice
+##Aurkibidea
 *[Egileak](#Egileak)
 *[Insignias](#insignias)
 *[Índice](#índice)
@@ -19,7 +19,7 @@ Egiten: Proiektuaren egoera: egiten:
 </h4>
 
 # Deskribapena
-Nire klaseko Programazio haztapenaren proiektua da.
+Nire klaseko Programazio haztapenaren proiektua da. Liburutegi baten inbentarioa.
 
 # proiektuaren funtzionaltasuna
 
@@ -32,6 +32,11 @@ Nire klaseko Programazio haztapenaren proiektua da.
 \## 🛠️ Nola exekutatu
 **Sartzen zarenean, aukeratu behar den cs eta "dotnet run" komando exekutatu**
 
+# :mag_right: Erabilitako teknologia
+
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+</a>
 
 # Egileak
 | [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Camila Fernanda Alves</sub>](https://github.com/camilafernanda) |  [<img src="https://avatars.githubusercontent.com/u/71970858?v=4" width=115><br><sub>Ellen Pimentel</sub>]([https://github.com/guilhermeonrails](https://github.com/ellenpimentel)) |  [<img src="https://avatars.githubusercontent.com/u/91544872?v=4" width=115><br><sub>Génesys Rondón</sub>](https://github.com/genesysaluralatam) |
