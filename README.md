@@ -9,8 +9,8 @@
 *[Proiektuaren egoera](#Proiektuaren-egoera)
 *[Deskribapena](#Deskribapena)
 *[proiektuaren funtzionaltasuna](#proiektuaren-funtzionaltasuna)
-*[Descripción del proyecto](#descripción-del-proyecto)
-*[Estado del proyecto](#Estado-del-proyecto)
+*[Proiekturako sarbidea](#Proiekturako-sarbidea)
+*[Erabilitako teknologia](#Erabilitako-teknologia)
 *[Egileak](#Egileak)
 
 # Proiektuaren egoera
