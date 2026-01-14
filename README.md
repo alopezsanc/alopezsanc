@@ -33,9 +33,7 @@ Nire klaseko Programazio haztapenaren proiektua da. Liburutegi baten inbentarioa
 \## 🛠️ Nola exekutatu
 **Sartzen zarenean, aukeratu behar den cs eta "dotnet run" komando exekutatu**
 
-#  Erabilitako teknologia
-
-:mag_right:
+# :mag_right: Erabilitako teknologia
 
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
