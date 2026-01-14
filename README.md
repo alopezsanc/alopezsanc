@@ -7,8 +7,8 @@
 
 ##Aurkibidea
 *[Proiektuaren egoera](#Proiektuaren-egoera)
-*[Insignias](#insignias)
-*[Índice](#índice)
+*[Deskribapena](#Deskribapena)
+*[proiektuaren funtzionaltasuna](#proiektuaren-funtzionaltasuna)
 *[Descripción del proyecto](#descripción-del-proyecto)
 *[Estado del proyecto](#Estado-del-proyecto)
 *[Egileak](#Egileak)
