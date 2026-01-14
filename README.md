@@ -6,7 +6,7 @@
 ![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
 
 ##Índice
-*[Título e imagen de portada](#Título-e-imagen-de-portada)
+*[Egileak](#Egileak)
 *[Insignias](#insignias)
 *[Índice](#índice)
 *[Descripción del proyecto](#descripción-del-proyecto)
