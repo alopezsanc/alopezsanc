@@ -6,7 +6,7 @@
 ![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
 
 ##Aurkibidea
-*[Proiektuaren egoera](#Proiektuarenegoera)
+*[Proiektuaren egoera](#Proiektuaren-egoera)
 *[Insignias](#insignias)
 *[Índice](#índice)
 *[Descripción del proyecto](#descripción-del-proyecto)
